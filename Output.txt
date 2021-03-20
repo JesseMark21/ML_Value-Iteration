@@ -1,0 +1,22 @@
+Q1)
+Iteration 1: 
+0 |0 |50 |
+0 |0 |40 |
+
+Iteration 2: 
+0 |40 |50 |
+0 |32 |40 |
+
+Iteration 3: 
+32 |40 |50 |
+25.6 |32 |40 |
+
+Iteration 4: 
+32 |40 |50 |
+25.6 |32 |40 |
+
+Number of iterations: 4
+
+Q2) Optimal Policy: S1 -> S2 -> S5 -> S6 -> S3
+
+Q3) Yes, you could multiply each immediate reward by a constant factor - such as double each reward - this would result in V* changing, while the optimal policy would remain the same.
